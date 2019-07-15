@@ -2,3 +2,4 @@
 demo run
 demo check
 demo test
+demo deploy
