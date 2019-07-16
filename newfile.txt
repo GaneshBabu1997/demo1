@@ -1,3 +1,4 @@
 hello world
 printf("hello world");
 scanf(%s);
+end
