@@ -3,3 +3,4 @@ printf("hello world");
 scanf(%s);
 end
 resolving issue
+resolve 2
