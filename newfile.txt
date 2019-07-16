@@ -1,6 +1,6 @@
 hello world
-printf("hello world");
-scanf(%s);
+print("hello world");
+scan(%s);
 end
 resolving issue
 resolve 2
@@ -12,4 +12,5 @@ approve
 update
 
 new changes
-12345678
+1234
+5678
