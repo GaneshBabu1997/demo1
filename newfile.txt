@@ -2,13 +2,8 @@ hello world
 printf("hello world");
 scanf(%s);
 end
-resolving issue
-resolve 2
-create request in project
 
 
-approve
-
-update
+new line of the code
 
 testing
