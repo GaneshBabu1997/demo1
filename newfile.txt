@@ -1,0 +1,17 @@
+hello world
+print("hello world");
+scan(%s);
+end
+
+
+new line of the code
+
+<<<<<<< HEAD
+update
+
+new changes
+1234
+567
+=======
+one more program
+>>>>>>> branch 'master' of https://github.com/GaneshBabu1997/demo1.git
